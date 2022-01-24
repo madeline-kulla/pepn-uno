@@ -1,5 +1,5 @@
 {
-  "token": "OTM0OTM2MzA5MzA1MzI3NjQ2.Ye3VSg.JdrJCAHdRamvBFwuaemV0pNlYIQ",
+  "token": "BOT_TOKEN",
   "oauth": {
     "id": "934936309305327646",
     "redirect": "http://localhost:8108/callback",
